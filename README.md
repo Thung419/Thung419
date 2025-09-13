@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thung419" alt="thung419" /></a> </p>
 
-- 🌱 I’m currently learning **Data structures and algorithms.**
+- 🤓 Currently learning **Data structures and algorithms.**
 
 - 📫 Contact **18.dangtuanhung@gmail.com**
 
