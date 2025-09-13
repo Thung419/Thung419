@@ -1,5 +1,4 @@
-<h1 align="center">I'm Tuan Hung</h1>
-<h3 align="center">An newbie developer</h3>
+<h1 align="center">🤓</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thung419&label=Profile%20views&color=0e75b6&style=flat" alt="thung419" /> </p>
 
